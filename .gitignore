@@ -1,0 +1,18 @@
+# Pacote de entrega e arquivos gerados
+*.zip
+*.pdf
+
+# Credenciais e configuração local
+.env
+.env.*
+*.key
+*.pem
+secrets/
+tokens/
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
