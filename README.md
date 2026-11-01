@@ -49,7 +49,6 @@ Leia os arquivos nesta ordem:
 | 4 | [docs/04-dados-e-resposta.md](docs/04-dados-e-resposta.md) | Destino dos dados, processamento, quem usa e benefício |
 | 5 | [diagramas/fluxograma.md](diagramas/fluxograma.md) | Fluxograma em Mermaid, do dado à ação |
 | 6 | [docs/05-limitacoes.md](docs/05-limitacoes.md) | Conexão, latência, segurança, energia e privacidade |
-| 7 | [docs/roteiro_video.md](docs/roteiro_video.md) | Roteiro do vídeo de 5 minutos, com o tempo de cada bloco |
 
 ## Requisitos da entrega
 
@@ -73,8 +72,7 @@ reactio-iot/
 │   ├── 02-componentes.md
 │   ├── 03-comunicacao.md
 │   ├── 04-dados-e-resposta.md
-│   ├── 05-limitacoes.md
-│   └── roteiro_video.md
+│   └── 05-limitacoes.md
 ├── diagramas/
 │   └── fluxograma.md
 └── .gitignore
