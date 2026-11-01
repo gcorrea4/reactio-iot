@@ -34,7 +34,7 @@ Nada disso foi implementado nesta entrega, e não há sensor de radiação, câm
 
 ## Links
 
-- **Vídeo no YouTube (não listado):** `<LINK_DO_VIDEO>`
+- **Vídeo no YouTube (não listado):** https://youtu.be/5IxaSjNf3q0
 - **Repositório:** https://github.com/gcorrea4/reactio-iot
 
 ## Como ler a documentação
